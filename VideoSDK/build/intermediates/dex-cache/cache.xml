@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\VideoSDK\exoplayer\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44db6e8d7e786842248ba8bc5252a32032b17b80">
+        <dex dex="D:\VideoSDK\app\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\VideoSDK\video_filter\build\intermediates\intermediate-jars\release\classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="717f06d0f8215501a7ce7da75a436874f4fb7eff">
+        <dex dex="D:\VideoSDK\app\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+
+</items>

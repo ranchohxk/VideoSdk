@@ -1,0 +1,25 @@
+# ninja log v5
+19	170	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_texture.c.o	14c374a8e028fe41
+43	174	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_mesh.c.o	779d7d2d1035fbc1
+35	175	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+54	180	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_model.c.o	d453dd9d06db4650
+1	280	0	CMakeFiles/video_filter.dir/src/main/cpp/video_filter.cpp.o	cbf8b98b2afd13d7
+282	482	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16
+6	213	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_mesh.c.o	779d7d2d1035fbc1
+27	220	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+62	252	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_texture.c.o	14c374a8e028fe41
+79	266	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_model.c.o	d453dd9d06db4650
+35	381	0	CMakeFiles/video_filter.dir/src/main/cpp/video_filter.cpp.o	cbf8b98b2afd13d7
+382	571	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16
+2	129	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+129	361	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16
+3	132	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+132	326	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16
+2	125	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+125	351	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16
+23	356	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_model.c.o	d453dd9d06db4650
+60	358	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_texture.c.o	14c374a8e028fe41
+4	361	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_mesh.c.o	779d7d2d1035fbc1
+92	363	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	fef9792922bbb6e8
+69	583	0	CMakeFiles/video_filter.dir/src/main/cpp/video_filter.cpp.o	cbf8b98b2afd13d7
+584	852	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libvideo_filter.so	71d72e2780153a16

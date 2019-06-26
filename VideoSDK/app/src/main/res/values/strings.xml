@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoSDK</string>
+    <string name="params_vector_str">坐标:%1$s</string>
+</resources>

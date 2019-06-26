@@ -1,0 +1,63 @@
+
+{
+	"buildFiles" : [ "E:/app/VideoSDK/video_filter/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"D:\\android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\app\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\debug\\armeabi --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"video_filter-Debug-armeabi" : 
+		{
+			"abi" : "armeabi",
+			"artifactName" : "video_filter",
+			"buildCommand" : "D:\\android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\app\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\debug\\armeabi --target video_filter",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/android/sdk/ndk-bundle/sysroot  -Dvideo_filter_EXPORTS -isystem D:\\android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem D:\\android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\armeabi\\include -isystem D:\\android\\sdk\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -isystem D:/android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "E:/app/VideoSDK/video_filter/src/main/cpp/video_filter.cpp",
+					"workingDirectory" : "E:/app/VideoSDK/video_filter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/android/sdk/ndk-bundle/sysroot -Dvideo_filter_EXPORTS  -isystem D:/android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "E:/app/VideoSDK/video_filter/src/main/cpp/filter/hyq_sdk_glsl_program.c",
+					"workingDirectory" : "E:/app/VideoSDK/video_filter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/android/sdk/ndk-bundle/sysroot -Dvideo_filter_EXPORTS  -isystem D:/android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "E:/app/VideoSDK/video_filter/src/main/cpp/filter/hyq_sdk_model.c",
+					"workingDirectory" : "E:/app/VideoSDK/video_filter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/android/sdk/ndk-bundle/sysroot -Dvideo_filter_EXPORTS  -isystem D:/android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "E:/app/VideoSDK/video_filter/src/main/cpp/filter/hyq_sdk_texture.c",
+					"workingDirectory" : "E:/app/VideoSDK/video_filter/.externalNativeBuild/cmake/debug/armeabi"
+				},
+				
+				{
+					"flags" : "  --target=armv5te-none-linux-androideabi --gcc-toolchain=D:/android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=D:/android/sdk/ndk-bundle/sysroot -Dvideo_filter_EXPORTS  -isystem D:/android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=15 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv5te -mtune=xscale -msoft-float -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC      -c ",
+					"src" : "E:/app/VideoSDK/video_filter/src/main/cpp/filter/hyq_sdk_mesh.c",
+					"workingDirectory" : "E:/app/VideoSDK/video_filter/.externalNativeBuild/cmake/debug/armeabi"
+				}
+			],
+			"output" : "E:/app/VideoSDK/video_filter/build/intermediates/cmake/debug/obj/armeabi/libvideo_filter.so",
+			"toolchain" : "3806728449"
+		}
+	},
+	"toolchains" : 
+	{
+		"3806728449" : 
+		{
+			"cCompilerExecutable" : "D:/android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/android/sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
