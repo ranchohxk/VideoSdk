@@ -97,7 +97,7 @@ public class WdseActivity extends Activity implements
         C.mCurVarExtra = (float) (mSharedPreferences.getIntValueByKey(SharedPreferencesHelper.KEY_SATURATION_PARAM_THIRD) / 100.f);//by AB 20190123
         Log.i(TAG, "var1 =" + C.mCurVar1 + " var2 = " + C.mCurVar2 + " line:271");
         //  mPictureManager = PictureManager.getInstance(getApplicationContext());
-        mPictureManager = new FaceManager(getApplicationContext(),null);
+        mPictureManager = new FaceManager(getApplicationContext(), null);
         mPictureManager.setBitmap(bitmap);
         mGLSurfaceView = (GLSurfaceView) findViewById(R.id.surfaceView);
         mPictureManager.auth(new OnAuthCallListener() {

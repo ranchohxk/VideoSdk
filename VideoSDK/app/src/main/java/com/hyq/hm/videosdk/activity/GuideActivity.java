@@ -101,7 +101,7 @@ public class GuideActivity extends AppCompatActivity {
             if (!fv.exists()){
                 fv.mkdir();
             }
-            sharedPreferences.put("Version",FileUtils.Version);
+            sharedPreferences.put("Version", FileUtils.Version);
             deleteFolderFile(fv);
             copyVideo();
         }else{

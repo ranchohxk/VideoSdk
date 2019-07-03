@@ -1,1 +1,1 @@
-include ':app', ':video_filter', ':exoplayer'
+include ':app', ':video_filter', ':exoplayer', ':facecal'
