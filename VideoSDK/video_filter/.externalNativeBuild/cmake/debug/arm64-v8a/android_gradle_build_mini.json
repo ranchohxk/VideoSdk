@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "E:\\app\\VideoSDK\\video_filter\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\app\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "video_filter-Debug-arm64-v8a": {
+      "artifactName": "video_filter",
+      "buildCommand": "D:\\android\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\app\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\debug\\arm64-v8a --target video_filter",
+      "abi": "arm64-v8a",
+      "output": "E:\\app\\VideoSDK\\video_filter\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libvideo_filter.so"
+    }
+  }
+}

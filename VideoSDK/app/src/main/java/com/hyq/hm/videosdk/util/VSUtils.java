@@ -3,6 +3,8 @@ package com.hyq.hm.videosdk.util;
 import android.os.Build;
 import android.util.Log;
 
+import com.hyq.hm.videosdk.impl.OnAuthStateListener;
+
 import java.io.IOException;
 import java.net.HttpURLConnection;
 import java.net.URL;

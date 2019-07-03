@@ -121,7 +121,7 @@ public class CameraOverlap {
 
     public void setPreviewCallback(Camera.PreviewCallback previewCallback) {
         this.mPreviewCallback = previewCallback;
-        if (mCamera != null) {
+        if (null != mCamera) {
             mCamera.setPreviewCallback(previewCallback);
         }
     }

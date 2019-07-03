@@ -50,6 +50,7 @@ public class SharedUtil {
     public static final int DEFAULT_FPARAM_VALUE = 100;
     public static final int DEFAULT_SPARAM_VALUE = 100;
 
+
     public SharedUtil(Context ctx) {
         this.ctx = ctx;
     }

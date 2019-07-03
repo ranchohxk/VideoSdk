@@ -10,8 +10,9 @@ package com.hyq.hm.videosdk.util;
  */
 public class C {
     public static String mModuleName = VSUtils.getModel();
-    public static int mVar1;//R分量在filter中的地址，把mCurVar1赋值给 ,来自Slider
-    public static int mVar2;//R分量,来自Slider
+    public static final String KEY_AUTH_STATUS = "auth_status";
+    public static int mVar1;
+    public static int mVar2;
     public static int mVar3;
     public static int mVar4;
     public static int mVar5;
@@ -20,16 +21,17 @@ public class C {
     public static int mVar8;
     public static int mVar9;
     public static int mVar10;
-    public static float mCurVar1; //R分量,来自Slider
-    public static float mCurVar2; //G分量，来自Slider
-    public static float mCurVar3; //B分量，来自人脸坐标
-    public static float mCurVar4; //R分量,来自Slider
-    public static float mCurVar5; //G分量，来自Slider
-    public static float mCurVar6; //B分量，来自人脸坐标  W*H
-    public static float mCurVar7; //B分量，来自人脸坐标  W*H
-    public static float mCurVar8; //B分量，来自人脸坐标  W*H
-    public static float mCurVar9; //G分量，来自Slider
-    public static float mCurVar10; //B分量，来自人脸坐标  W*H
+    public static float mCurVar1;
+    public static float mCurVar2;
+    public static float mCurVar3;
+    public static float mCurVar4;
+    public static float mCurVar5;
+    public static float mCurVar6;
+    public static float mCurVar7;
+    public static float mCurVar8;
+    public static float mCurVar9;
+    public static float mCurVar10;
+    public static float mCurVarExtra;
     public static final float[] VERTEX = {
             -1.0f, -1.0f, 0.0f,
             1.0f, -1.0f, 0.0f,

@@ -6,10 +6,10 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
+import android.os.Bundle;
 import android.os.Environment;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -34,6 +34,7 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
     private static final String TAG = "FirstActivity";
     private Button mVideo, mPicture;
     private static final int REQUEST_EXTERNAL_STORAGE = 1;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,7 +46,9 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
         checkPermission();
         verifyStoragePermissions(this);
         InitModelFiles();
+
     }
+
     void InitModelFiles() {
         String assetPath = "AndroidOS";
         String sdcardPath = Environment.getExternalStorageDirectory()
@@ -54,6 +57,7 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
         copyFilesFromAssets(this, assetPath, sdcardPath);
 
     }
+
     public void copyFilesFromAssets(Context context, String oldPath, String newPath) {
         try {
             String[] fileNames = context.getAssets().list(oldPath);
@@ -85,6 +89,7 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
             e.printStackTrace();
         }
     }
+
     private static String[] PERMISSIONS_STORAGE = {
             "android.permission.READ_EXTERNAL_STORAGE",
             "android.permission.WRITE_EXTERNAL_STORAGE"};
