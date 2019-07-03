@@ -36,7 +36,6 @@ public class MainActivity extends Activity {
 
     private IjkMediaPlayer player;
 
-    private Handler mainHandler;
     private ImageButton mImageButtonTrackingStatusmain;
 
     private FaceManager mVideoManager;
@@ -63,7 +62,6 @@ public class MainActivity extends Activity {
             window.setNavigationBarColor(Color.TRANSPARENT);
         }
         videoPlayerView = findViewById(R.id.video_player);
-        mainHandler = new Handler();
         videoTime = findViewById(R.id.video_time);
         surfaceView = findViewById(R.id.surface_view);
         mImageButtonTrackingStatusmain = (ImageButton) findViewById(R.id.id_tracking_status_main);
@@ -88,6 +86,7 @@ public class MainActivity extends Activity {
 
         player = new IjkMediaPlayer();
         String videoPath = FileUtils.AppPath + "/" + FileUtils.PathMain + "/" + FileUtils.PathVideo + "/test.mp4";
+
         try {
             player.setDataSource(videoPath);
         } catch (
@@ -112,13 +111,11 @@ public class MainActivity extends Activity {
             @Override
             public void onSucess() {
                 updateFaceStatus(true);
-
             }
 
             @Override
             public void onFail() {
                 updateFaceStatus(false);
-
             }
         });
 

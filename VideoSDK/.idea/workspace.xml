@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="FaceManager" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="hxk" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="AvailableLibraryUpdateStorage">
@@ -16,7 +16,6 @@
     <list default="true" id="575820be-8ab2-4ea0-adbc-b047d95830f5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
@@ -25,43 +24,22 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.1.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/Readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/GuideActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/GuideActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/bean/Data.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/bean/JsonRootBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/camera/CameraOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/face/FaceCalManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/face/FaceManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/face/PictureRender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/GLRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/GlesManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/SaturationShader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/ShaderUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/VertexShader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/OnAuthCallListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/OnAuthStateListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/OnFaceSListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/OnNetAuthCalListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/OnUpdateFaceStatus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/impl/SurfaceStatusCallback.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/net/NetManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/util/C.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/util/SharedUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/util/VSUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/zeusees/tracking/Face.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/zeusees/tracking/FaceTracking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det1.param" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det2.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det2.param" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det3.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/det3.param" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/tracking.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/models/tracking.proto.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/exoplayer/exoplayer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exoplayer/exoplayer.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facecal/facecal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/facecal/facecal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java" beforeDir="false" afterPath="$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +67,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            <state relative-caret-position="-3500">
+              <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/FirstActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,46 +94,79 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/GuideActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/video_filter/src/main/java/com/hyq/videoFilter/VideoFilter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2540">
-              <caret line="146" column="5" selection-start-line="146" selection-start-column="5" selection-end-line="146" selection-end-column="5" />
+            <state relative-caret-position="1560">
+              <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
               <folding>
-                <element signature="e#4038#4039#0" expanded="true" />
-                <element signature="e#4067#4068#0" expanded="true" />
+                <element signature="e#4730#4893#0" expanded="true" />
+                <element signature="e#4892#4893#0" expanded="true" />
+                <element signature="e#5356#5654#0" expanded="true" />
+                <element signature="e#5653#5654#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1600">
-              <caret line="80" column="38" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+            <state relative-caret-position="-3974">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+              <folding>
+                <element signature="e#4286#4287#0" expanded="true" />
+                <element signature="e#4340#4341#0" expanded="true" />
+                <element signature="e#4398#4399#0" expanded="true" />
+                <element signature="e#4453#4454#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-          <provider editor-type-id="android-designer2" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/file/FileUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/AS/sdk/sources/android-26/android/content/res/AssetManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="383" column="36" selection-start-line="383" selection-start-column="17" selection-end-line="383" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/facecal/src/main/java/zeusees/tracking/FaceTracking.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -152,8 +181,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>onPreviewFrame</find>
-      <find>新的人脸跟踪测试</find>
       <find>int mTexCoorHandl</find>
       <find>onDrawFrame</find>
       <find>onDra</find>
@@ -182,6 +209,8 @@
       <find>MyRender</find>
       <find>render</find>
       <find>mPreviewCallback</find>
+      <find>test.mp4</find>
+      <find>mainHandler</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -203,7 +232,6 @@
         <option value="$PROJECT_DIR$/app/src/main/Readme.md" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/SaturationShader.java" />
         <option value="$PROJECT_DIR$/video_filter/build.gradle" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/util/SharedUtil.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/gles/GlesManager.java" />
@@ -214,16 +242,18 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_wdse.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/FirstActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/net/NetManager.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="947" />
-    <option name="y" value="208" />
+    <option name="x" value="713" />
+    <option name="y" value="157" />
     <option name="width" value="1932" />
     <option name="height" value="1176" />
   </component>
@@ -239,6 +269,59 @@
             <path>
               <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
               <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="videosdk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="VideoSDK" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VideoSDK" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="videosdk" type="462c0819:PsiDirectoryNode" />
+              <item name="activity" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,18 +345,19 @@
     <option name="LAST_EDITED_SIGNING_CONFIG" value="debug" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\VideoSDKLZC\app\src\main\assets\video" />
-    </key>
-    <key name="android.template.packageName">
-      <recent name="com.hyq.hm.videosdk.activity" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Git\VideoSDK" />
       <recent name="E:\Git\VideoSDK\app\src\main\assets\AndroidOS" />
       <recent name="E:\Git\VideoSDK\app\src\main\assets\AndroidOs.models" />
       <recent name="E:\Git\VideoSDK\app\src\main\res\drawable" />
       <recent name="E:\Git\VideoSDK\app\src\main\res\values" />
+    </key>
+    <key name="android.template.packageName">
+      <recent name="com.hyq.hm.videosdk.activity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\GitHub\VideoSdk\VideoSDK\app\src\main\assets\video" />
+      <recent name="D:\VideoSDKLZC\app\src\main\assets\video" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -535,19 +619,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Resources Explorer" order="0" weight="0.32960597" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.87058824" visible="true" weight="0.2859425" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.8717647" visible="true" weight="0.2859425" />
       <window_info id="Structure" order="2" sideWeight="0.49874055" weight="0.24973376" />
       <window_info id="Designer" order="3" />
-      <window_info id="Build Variants" order="4" sideWeight="0.12941177" side_tool="true" visible="true" weight="0.2859425" />
+      <window_info id="Build Variants" order="4" sideWeight="0.1282353" side_tool="true" visible="true" weight="0.2859425" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.5006305" side_tool="true" weight="0.28700745" />
       <window_info id="Captures" order="7" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="8" />
-      <window_info active="true" anchor="bottom" id="Build" order="0" sideWeight="0.49946752" visible="true" weight="0.41666666" />
+      <window_info anchor="bottom" id="Build" order="0" sideWeight="0.49946752" weight="0.40882352" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
@@ -556,7 +641,7 @@
       <window_info anchor="bottom" id="Gradle Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Android Profiler" order="9" weight="0.4317406" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.4730656" />
-      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49946752" weight="0.18529412" />
+      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49946752" visible="true" weight="0.16666667" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32935154" />
       <window_info anchor="bottom" id="Messages" order="14" />
@@ -572,17 +657,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/coordinate.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AS/sdk/sources/android-26/android/graphics/BitmapFactory.java" />
-    <entry file="file://$PROJECT_DIR$/../AS/sdk/sources/android-26/java/io/File.java" />
-    <entry file="file://$PROJECT_DIR$/../AS/sdk/sources/android-26/android/opengl/GLES20.java" />
     <entry file="file://$PROJECT_DIR$/../AS/sdk/sources/android-26/android/content/SharedPreferences.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/file/SharedPreferencesHelper.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -666,13 +740,6 @@
             <element signature="e#2228#2229#0" expanded="true" />
             <element signature="e#2258#2259#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/GuideActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2360">
-          <caret line="140" column="30" selection-start-line="140" selection-start-column="30" selection-end-line="140" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -788,38 +855,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/file/FileUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../AS/sdk/sources/android-26/android/opengl/GLUtils.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/FirstActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="63" column="47" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -871,13 +911,6 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2300">
-          <caret line="142" column="13" lean-forward="true" selection-start-line="142" selection-start-column="13" selection-end-line="142" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_wdse.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="686">
@@ -902,8 +935,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="471">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecal/src/main/java/zeusees/tracking/FaceTracking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AS/sdk/sources/android-26/android/content/res/AssetManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="383" column="36" selection-start-line="383" selection-start-column="17" selection-end-line="383" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="59" column="34" selection-start-line="59" selection-start-column="34" selection-end-line="59" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/FirstActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/WdseActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3500">
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/file/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/GuideActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+          <folding>
+            <element signature="e#4730#4893#0" expanded="true" />
+            <element signature="e#4892#4893#0" expanded="true" />
+            <element signature="e#5356#5654#0" expanded="true" />
+            <element signature="e#5653#5654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/hyq/hm/videosdk/activity/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3974">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+          <folding>
+            <element signature="e#4286#4287#0" expanded="true" />
+            <element signature="e#4340#4341#0" expanded="true" />
+            <element signature="e#4398#4399#0" expanded="true" />
+            <element signature="e#4453#4454#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facecal/src/main/java/com/hyq/hm/videosdk/face/FaceOverlap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
