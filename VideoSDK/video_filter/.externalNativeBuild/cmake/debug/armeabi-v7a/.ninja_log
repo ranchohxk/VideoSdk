@@ -1,0 +1,7 @@
+# ninja log v5
+1	5386	0	CMakeFiles/video_filter.dir/src/main/cpp/video_filter.cpp.o	cae41652310ea2d
+928	5388	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_glsl_program.c.o	f0749ccd6c3655ce
+1742	5877	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_model.c.o	9aea12d1f505687f
+3302	5881	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_mesh.c.o	6c2ec8a0c367fc0d
+3269	5881	0	CMakeFiles/video_filter.dir/src/main/cpp/filter/hyq_sdk_texture.c.o	e0607d4c60e7350e
+5881	9444	0	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libvideo_filter.so	cbe49286d4fa4a4f

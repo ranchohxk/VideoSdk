@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "E:\\GitHub\\VideoSdk\\VideoSDK\\video_filter\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\AS\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\GitHub\\VideoSdk\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "video_filter-Release-armeabi-v7a": {
+      "artifactName": "video_filter",
+      "buildCommand": "D:\\AS\\sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\GitHub\\VideoSdk\\VideoSDK\\video_filter\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target video_filter",
+      "abi": "armeabi-v7a",
+      "output": "E:\\GitHub\\VideoSdk\\VideoSDK\\video_filter\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libvideo_filter.so"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+Executable : D:\AS\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+--build
+E:\GitHub\VideoSdk\VideoSDK\video_filter\.externalNativeBuild\cmake\debug\armeabi-v7a
+--target
+video_filter
+jvmArgs : 
+

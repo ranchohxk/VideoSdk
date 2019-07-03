@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/defda74e7f7176a1b9ec28478e30eee0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.8.aar/defda74e7f7176a1b9ec28478e30eee0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/593487cff5737a9e1fbf847b624c36d1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/593487cff5737a9e1fbf847b624c36d1/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

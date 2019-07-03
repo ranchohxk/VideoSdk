@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "outputFile": "E:\\GitHub\\VideoSdk\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
             "map": [
                 {
-                    "source": "D:\\VideoSDK\\exoplayer\\build\\intermediates\\bundles\\release\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "E:\\GitHub\\VideoSdk\\VideoSDK\\exoplayer\\build\\intermediates\\packaged_res\\release\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -21,46 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ac54a0ace3996090bdb7ad492e3b5bcd\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1667,1780,1874,1952",
-                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,97,112,93,77,101",
-                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1662,1775,1869,1947,2049"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,32,33",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,150,257,380,473,573,655,752,860,936,1012,1090,1186,1282,1377,1474,1569,1667,1780,2931,3009",
-                        "endColumns": "94,106,122,92,99,81,96,107,75,75,77,95,95,94,96,94,97,112,93,77,101",
-                        "endOffsets": "145,252,375,468,568,650,747,855,931,1007,1085,1181,1277,1372,1469,1564,1662,1775,1869,3004,3106"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "E:\\Git\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
-            "map": [
-                {
-                    "source": "E:\\Git\\VideoSDK\\exoplayer\\build\\intermediates\\bundles\\release\\res\\values-zh-rHK\\values-zh-rHK.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,155,249,341,432,530,631,731,833,926,1022",
-                        "endColumns": "99,93,91,90,97,100,99,101,92,95,89",
-                        "endOffsets": "150,244,336,427,525,626,726,828,921,1017,1107"
-                    },
-                    "to": {
-                        "startLines": "21,22,23,24,25,26,27,28,29,30,31",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1874,1974,2068,2160,2251,2349,2450,2550,2652,2745,2841",
-                        "endColumns": "99,93,91,90,97,100,99,101,92,95,89",
-                        "endOffsets": "1969,2063,2155,2246,2344,2445,2545,2647,2740,2836,2926"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\ac54a0ace3996090bdb7ad492e3b5bcd\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-2\\files-2.1\\39c4a2c0a4f29858a37742862f306388\\res\\values-zh-rHK\\values-zh-rHK.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,25 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\Git\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+            "outputFile": "E:\\GitHub\\VideoSdk\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
             "map": [
                 {
-                    "source": "E:\\Git\\VideoSDK\\exoplayer\\build\\intermediates\\bundles\\release\\res\\values-ta-rIN\\values-ta-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,138,212,285,352,431,525,617,713,791,859",
-                        "endColumns": "82,73,72,66,78,93,91,95,77,67,68",
-                        "endOffsets": "133,207,280,347,426,520,612,708,786,854,923"
-                    }
-                }
-            ]
-        },
-        {
-            "outputFile": "D:\\VideoSDK\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
-            "map": [
-                {
-                    "source": "D:\\VideoSDK\\exoplayer\\build\\intermediates\\bundles\\release\\res\\values-ta-rIN\\values-ta-rIN.xml",
+                    "source": "E:\\GitHub\\VideoSdk\\VideoSDK\\exoplayer\\build\\intermediates\\packaged_res\\release\\values-ta-rIN\\values-ta-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
